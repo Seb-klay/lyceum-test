@@ -1,2 +1,26 @@
 # lyceum-test
-This is a test of the product of lyceum, a cloud computing company
+This is a test of the product of lyceum, a cloud computing company.
+
+# Problems encountered
+## Output streaming
+When waiting for my code to compute, the process "Running" was not explicit. 
+
+## Computing between the CPU/GPU/automatic selection (using mnist.py)
+While computing the mnist.py code (copied from the "get started page"), 
+- (SUCCESS) using the CPU was working
+- (FAILED) using the GPU crashed - nvlink_path: Couldn't find a suitable version of nvlink.
+- (FAILED) using the automatic selection gave a http 500 with detail "All connection attempts failed" 
+
+## Many broken links in the documentation/website
+
+
+
+# Questions
+## 1. Name one feature that we should build next ?
+
+
+## 2. What do you not like about the product ?
+
+
+## 3. Did anything not work as you'd expect ?
+
